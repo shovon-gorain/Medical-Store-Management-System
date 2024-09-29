@@ -25,7 +25,7 @@ This project is built as part of a learning initiative for understanding Java de
 #####  1. Clone the repository:
 * Bash
   ```sh
-  git clone https://github.com/your-username/medical-store-management-system.git
+  git clone https://github.com/shovon-gorain/medical-store-management-system.git
   ```
 
 #####  2. Navigate to the project directory:
