@@ -25,13 +25,13 @@ This project is built as part of a learning initiative for understanding Java de
 #####  1. Clone the repository:
 * Bash
   ```sh
-  git clone https://github.com/shovon-gorain/medical-store-management-system.git
+  git clone https://github.com/shovon-gorain/Medical-Store-Management-System.git
   ```
 
 #####  2. Navigate to the project directory:
 * Bash
   ```sh
-  cd medical-store-management-system
+  cd Medical-Store-Management-System
   ```
 
 #####  3. Set up your environment:
