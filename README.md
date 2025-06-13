@@ -6,7 +6,7 @@
 - Technologies Used
 - Usage
 - Contributing
--
+
 ## Project Overview
 <p>The Medical Store Management System is a Java-based desktop application designed to manage the operations of a medical store, including inventory management, billing, customer management, and more. The system provides an intuitive interface for managing medicines, handling orders, generating bills, and tracking stock levels.
 
