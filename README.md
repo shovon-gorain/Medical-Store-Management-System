@@ -73,6 +73,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 - Make your changes.
 - Commit your changes (git commit -m 'Add new feature').
 - Push to the branch (git push origin feature-branch).
-- Create a new Pull Request.
+- Create a new Pull Requests.
 - Please make sure your code follows the project guidelines and is well-documented.
 
